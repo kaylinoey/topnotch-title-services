@@ -1,0 +1,3 @@
+TOPNOTCH TITLE SERVICES INC. — GITHUB PAGES FILES
+
+Replace the current files in the topnotch-title-services GitHub repository with everything in this folder. Upload the hidden .nojekyll file as well, then commit the changes to the branch used by GitHub Pages.
